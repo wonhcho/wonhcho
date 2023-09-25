@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-"Congratulations! You have acheived failure!"
+"Congratulations! You have acheived failure!" 😝
